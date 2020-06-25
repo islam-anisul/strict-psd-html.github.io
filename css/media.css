@@ -1,0 +1,165 @@
+/*--------LARGE DEVICE-----*/
+@media (max-width: 1199.98px) {}
+
+/*--------MEDIUM DEVICE-----*/
+@media (max-width: 991.98px) {
+
+       .navbar {
+        background: rgba(0, 0, 0, 0.7) !important;
+    }
+
+    .nav-item .nav-link {
+        color: #fff !important;
+    }
+ 
+    #banner {
+	    padding-top: 110px;
+    }
+
+
+    .pure_design_text {
+	padding-top: 65px;
+	padding-bottom: 40px;
+}
+
+    .design_content {
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+    
+    .footer_text p {
+	text-align: center;
+}
+
+    .footer_text{
+        padding-bottom: 20px;
+    }
+    .social_link{
+	text-align: center !important;
+}
+
+
+
+
+
+}
+
+/*--------SMALL DEVICE-----*/
+@media (max-width: 767.98px) {
+
+    .navbar {
+        background: rgba(0, 0, 0, 0.7) !important;
+    }
+
+    .nav-item .nav-link {
+        color: #fff !important;
+    }
+
+    #banner {
+        padding-top: 130px;
+        padding-bottom: 65px;
+    }
+
+    .banner_item h1 {
+        font-size: 100px;
+    }
+
+    .pure_design_text {
+        padding-top: 45px;
+        padding-bottom: 70px;
+    }
+
+    #showcase {
+        padding-top: 45px;
+        padding-bottom: 65px;
+    }
+
+    .title {
+        font-size: 36px;
+    }
+
+    .contact_overly {
+        padding-top: 45PX;
+        padding-bottom: 55px;
+    }
+
+    .footer_text {
+        padding-bottom: 10px;
+    }
+
+    .footer_text p {
+        text-align: center;
+    }
+
+
+    .social_link {
+        text-align: center !important;
+        padding-bottom: 30px;
+    }
+}
+
+/*--------EXTRA SMALL DEVICE-----*/
+@media (max-width: 575.98px) {
+
+    .navbar {
+        background: rgba(0, 0, 0, 0.7) !important;
+    }
+
+
+    .nav-item .nav-link {
+        color: #fff !important;
+    }
+
+    #banner {
+        padding-top: 80px;
+        padding-bottom: 34px;
+    }
+
+    .banner_item h1 {
+        font-size: 39px;
+    }
+
+    .banner_item p {
+        margin-top: 30px;
+    }
+
+    .banner_item button {
+        margin-top: 40px;
+    }
+
+    .pure_design_text {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .design_content {
+        padding-top: 35px;
+        padding-bottom: 35px;
+
+    }
+
+    .contact_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #showcase {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+
+    .footer_text {
+        padding-top: 25px;
+        padding-bottom: 10px;
+    }
+
+    .footer_text p {
+        text-align: center;
+    }
+
+    .social_link {
+        text-align: center !important;
+    }
+
+}
